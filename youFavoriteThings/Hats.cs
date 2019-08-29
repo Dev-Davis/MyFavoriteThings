@@ -7,8 +7,9 @@ namespace YourFavoriteThings
     class Hats
     {
         //Properties
+        public string Name { get; set; }
         public string Type { get; set; }
-        public string Brim { get; set; }
+        public int numberInCollection { get; set; }
 
         // Methods
         public void Wear()

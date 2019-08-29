@@ -8,6 +8,7 @@ namespace YourFavoriteThings
     {
         public string Genre { get; set; }
         public string Artist { get; set; }
+        public string Song { get; set; }
 
         //Methods
         public void SingAlong()
