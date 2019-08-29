@@ -9,6 +9,7 @@ namespace YourFavoriteThings
         // Properties
         public string Bio { get; set; }
         public string Hobbies { get; set; }
+        public string Goals { get; set; }
 
         //Methods
         public void Live()

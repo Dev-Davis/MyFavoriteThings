@@ -1,0 +1,11 @@
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.csprojAssemblyReference.cache
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.AssemblyInfoInputs.cache
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.AssemblyInfo.cs
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\bin\Debug\netcoreapp2.2\youFavoriteThings.deps.json
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\bin\Debug\netcoreapp2.2\youFavoriteThings.runtimeconfig.json
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\bin\Debug\netcoreapp2.2\youFavoriteThings.runtimeconfig.dev.json
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\bin\Debug\netcoreapp2.2\youFavoriteThings.dll
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\bin\Debug\netcoreapp2.2\youFavoriteThings.pdb
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.dll
+C:\Users\DotDang\source\repos\youFavoriteThings\youFavoriteThings\obj\Debug\netcoreapp2.2\youFavoriteThings.pdb
