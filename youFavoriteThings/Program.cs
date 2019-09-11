@@ -23,18 +23,19 @@ namespace youFavoriteThings
                 numberInCollection = 89
             };
 
-            var life1 = new Life
+            var skate1 = new RollerSkating
             {
-                Bio = "I am a developing software developer",
-                Hobbies = "Making music and learning development",
-                Goals = "To get a career away from my shitty job"
+                Boot = "Riedell 220 Boots",
+                Plates = "Sure Grip Avanti Aluminum Plate",
+                Wheels = "Sure-Grip FoMac Premier Mini Mac roller skate wheels 45mm"
+
             };
 
-            var life2 = new Life
+            var skate2 = new RollerSkating
             {
-                Bio = "I am a developing music engineer",
-                Hobbies = "Making music and roller skating",
-                Goals = "To get a career away from my shitty job also"
+                Boot = "Riedell OG Rhythm Boots",
+                Plates = "Sure-Grip Competitor Quad Skate Plate Plates",
+                Wheels = "Radar Varsity Plus Skate Wheels Black 57mm 8 set"
             };
 
             var movie1 = new Movies
@@ -44,11 +45,11 @@ namespace youFavoriteThings
                 Description = "Not about the big red dog"
             };
 
-            var movie2 = new Music
+            var movie2 = new Movies
             {
-                Artist = "How High",
-                Song = "Comedy",
-                Genre = "A movie about getting high with Redman and Method Man"
+                Name = "How High",
+                Genre = "Comedy",
+                Description = "A movie about getting high with Redman and Method Man"
             };
 
             var music1 = new Music
@@ -65,11 +66,14 @@ namespace youFavoriteThings
                 Genre = "The song that introduced me to T.I."
             };
 
-            var life = new List<Life>();
-            foreach (var l in life)
-            {
-                Console.WriteLine(l);
-            }
+            Console.WriteLine($"This is a {hat1.Name}, after Snoop Dogg's first album.");
+            Console.WriteLine($"This is a {hat2.Name} hat.");
+            Console.WriteLine($"The {skate1.Boot} were my first pair of good skates.");
+            Console.WriteLine($"The {skate2.Boot} are my current skates, and I love them.");
+            Console.WriteLine($"Have you seen {movie1.Name}? Not the big red dog.");
+            Console.WriteLine($"{movie2.Name} is my movie. Don't know how good part 2 is though.");
+            Console.WriteLine($"{music1.Artist} is the meanest diss record in history.");
+            Console.WriteLine($"I was introduced to {music2.Artist} back in 2001 when I heard {music2.Song}. Still my favorite song by him to this day.");
         }
     }
 }
