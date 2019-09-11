@@ -16,9 +16,14 @@ namespace YourFavoriteThings
             Console.WriteLine("Making my way downtown...");
         }
 
+        public void Tracks()
+        {
+            Console.WriteLine("Who made this beat?");
+        }
+
         public void Listen()
         {
-            Console.WriteLine("Where's my phone?");
+            Console.WriteLine("Where's the aux cord?");
         }
     }
 }
